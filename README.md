@@ -37,18 +37,6 @@ _____CODE_______
 
 ___program__
 
-
-Make a Heart and print 'I LOVE YOU' using Python Turtle
-Coding with AnimationMarch 23, 2022Course2 Comments
-Make a Heart and print 'I LOVE YOU' using Python Turtle 
-
-
-
-
-Watch here
-
-Source code :
-
 import turtle 
 
 from turtle import *
